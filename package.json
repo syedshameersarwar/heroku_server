@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start":"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "syed shameer sarwar",
@@ -12,7 +12,4 @@
   "dependencies": {
     "esm": "^3.2.18"
   }
-  "engines": {
-    "node": "6.4.1"
-  },
 }
