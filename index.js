@@ -10,8 +10,8 @@ console.log("hello world again");
 //a();
 */
 
-//import http from "http"; //with esm
-const http = require('http'); //for heroku
+import http from "http"; //with esm
+//const http = require('http'); //for heroku
 
 const PORT = process.env.PORT || 3000;
 console.log(PORT);
